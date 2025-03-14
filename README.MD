@@ -12,7 +12,7 @@ You can generate the hierarchy of the different classes as well as a list of the
 
 ## Means
 
-You will work in groups of 2 (except one group of three). Fill the document here : [Groups](https://partage.imt.fr/index.php/s/NMj4Ag9ewyxpCen).
+You will work in groups of 2 (except one group of three). Fill the document here : [Groups](https://partage.imt.fr/index.php/s/9eigeTpXAe7KrBW).
 
 Please specify if you plan to implement a GPU version of galax in the corresponding column.
 
@@ -28,7 +28,7 @@ The objective of the course is to accelerate the simulation. You must maximize t
 
 ## Evaluation
 
-* Project logbook: you will keep an up-to-date document explaining your experiences, your results, your choices, taken from day to day. No need to detail, to put images, to spend time on formatting. You will use text format files that have been created for you [here](https://partage.imt.fr/index.php/s/JNRsp7tqkz3RiFT).
+* Project logbook: you will keep an up-to-date document explaining your experiences, your results, your choices, taken from day to day. No need to detail, to put images, to spend time on formatting. You will use text format files that have been created for you [here](https://partage.imt.fr/index.php/s/i85BRAPKFziT3pq).
 * Presentation (10 minutes + 5 minutes questions)
   * Steps fo final implementation
   * Summary of all results for each step
@@ -115,7 +115,7 @@ Provided a software platform with a working version of the CUDA toolkit, it is a
 
 To check that the particles positions computed from your code are in agreement with the reference (slow) model, use the `--validate` option. For instance
 ```bash
-    ./bin/galax -C CPU_FAST --validate
+    ./bin/galax -c CPU_FAST --validate
 ```
 will compare the positions of the `CPU` and `CPU_FAST` models at each step.
 

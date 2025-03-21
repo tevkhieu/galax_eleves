@@ -7,6 +7,11 @@
 
 class Model_CPU_fast : public Model_CPU
 {
+    private: 
+
+        Particles* array_A; 
+        Particles* array_B; 
+
 public:
     Model_CPU_fast(const Initstate& initstate, Particles& particles);
 

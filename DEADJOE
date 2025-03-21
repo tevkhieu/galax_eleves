@@ -1,0 +1,34 @@
+
+*** These modified files were found in JOE when it aborted on Fri Mar 14 16:24:37 2025
+*** JOE was aborted by UNIX signal 1
+
+*** Fichier '/homes/t21khieu/Bureau/SEH/PARPING/galax_eleves/.git/MERGE_MSG'
+cool
+
+Merge remote-tracking branch 'refs/remotes/origin/master'
+# Veuillez entrer un message de validation pour expliquer en quoi cette fusion est
+# nécessaire, surtout si cela fusionne une branche amont mise à jour dans une branche de sujet.
+#
+# Les lignes commençant par '#' seront ignorées, et un message vide
+# abandonne la validation.
+
+*** Fichier '(Sans nom)'
+:q
+exit
+quit
+quit()
+man
+
+*** Fichier '(Sans nom)'
+man -P cat -S 2:3 
+
+*** Fichier '(Sans nom)'
+/homes/t21khieu/SAR/.git/MERGE_MSG
+/homes/t21khieu/SAR/.git/MERGE_MSG
+* Man Page *
+/homes/t21khieu/SAR/.git/MERGE_MSG
+/homes/t21khieu/Bureau/SEH/PARPING/galax_eleves/.git/MERGE_MSG
+
+*** Fichier '* Startup Log *'
+Traitement de '/etc/joe/editorrc'...Traitement de '/etc/joe/ftyperc'...Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
